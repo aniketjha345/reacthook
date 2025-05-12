@@ -1,4 +1,8 @@
-# React + Vite
+# React Hooks Project
+
+This is a React project that demonstrates various React hooks and their implementations.
+
+## Built with React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
